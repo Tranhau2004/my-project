@@ -21,7 +21,9 @@ const About = () => {
   return (
     <div style={styles.container}>
       <div style={styles.card}>
-        <h1 style={styles.title}>🎓 Thông tin sinh viên</h1>
+        <h1 style={styles.title}>🎓 Thông tin
+            
+                                     sinh viên</h1>
 
         <div style={styles.row}>
           <span style={styles.label}>Họ tên</span>
